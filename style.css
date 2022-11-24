@@ -1,0 +1,14 @@
+body{
+  padding-top: 50px;
+}
+
+.form{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.form__textarea{
+  min-width: 600px;
+  margin-right: 10px;
+}
